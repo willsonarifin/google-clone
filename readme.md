@@ -1,1 +1,0 @@
-First HTML and CSS project. Google homepage clone using Flexbox.
